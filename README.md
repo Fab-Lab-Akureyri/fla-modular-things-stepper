@@ -25,3 +25,12 @@ Based on [Yuichi Tamiya's](https://gitlab.fabcloud.org/yuichitamiya) version fro
 | 7     |   C6,C3	    | C_1206	                            | 2         | 10uF                                          |
 | 8     |   UB1,UA1	    | HSOP-8	                            | 2         | TB67H451FNG                                   |
 | 9     |   J1	        | PinHeader_1x04_P2.54mm_Horizontal_SMD | 1         | Conn_PinHeader_1x04_P2.54mm_Horizontal_SMD    |
+
+## Images
+
+![Schematic](schematic.jpg)
+![PCB](pcb.jpg)
+
+Note: I only had the male headers for the board, I would have preferred to have the female headers on the board. 
+
+![Board](board.jpg)
