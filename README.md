@@ -8,7 +8,7 @@ Byggt á útgáfu [Yuichi Tamiya](https://gitlab.fabcloud.org/yuichitamiya) frá
 
 ## English 
 
-KiCad project [RP2040 stepper mótor](https://github.com/modular-things/modular-things/tree/main/arduino/stepper-hbridge-rp2040) [Modular things](https://github.com/modular-things/). 
+KiCad project [RP2040 stepper motor](https://github.com/modular-things/modular-things/tree/main/arduino/stepper-hbridge-rp2040) [Modular things](https://github.com/modular-things/). 
 
 Based on [Yuichi Tamiya's](https://gitlab.fabcloud.org/yuichitamiya) version from the [Instructors Bootcamp](http://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/Projects/xiao_rp2040_hbridges/) in [Amsterdam 2023](http://academany.fabcloud.io/fabacademy/2023/instructors-bootcamp/) with updated [pinout](https://github.com/modular-things/modular-things/commit/0fbb3a3acf8de46f2caffaf1a5243ba7b4b4830b). 
 
